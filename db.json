@@ -1,3 +1,34 @@
 {
-"people": "dsad"
+  "employees": [
+    {
+      "id": 1,
+      "name": "Bagus Budi Supriadi",
+      "active": true,
+      "profile_pic": "https://i.pravatar.cc/300"
+    },
+  {
+      "id": 2,
+      "name": "Faisal Ahmad",
+      "active": true,
+      "profile_pic": "https://i.pravatar.cc/300"
+    },
+  {
+      "id": 3,
+      "name": "Ismail Ramadhan",
+      "active": true,
+      "profile_pic": "https://i.pravatar.cc/300"
+    },
+  {
+      "id": 4,
+      "name": "Agus Budi Hermawan",
+      "active": false,
+      "profile_pic": "https://i.pravatar.cc/300"
+    },
+  {
+      "id": 5,
+      "name": "Sarah Faliha",
+      "active": true,
+      "profile_pic": "https://i.pravatar.cc/300"
+    }
+]
 }
